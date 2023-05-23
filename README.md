@@ -45,5 +45,4 @@ The content provided in this page is a summary from multiple sources. It is not 
 ### Sources
 - Class notes from [Green Digital Skills course by Inco Academy](https://www.greenskills.inco-group.co/)
 - [LinkedIN Global Green Skills Report 2022](https://economicgraph.linkedin.com/content/dam/me/economicgraph/en-us/global-green-skills-report/global-green-skills-report-pdf/li-green-economy-report-2022-annex.pdf)
-https://www.unido.org/stories/what-are-green-skills
 - [Sustainable Web Designs video by Claire Thornewill](https://www.youtube.com/watch?v=_lMX1S9wZFc)
