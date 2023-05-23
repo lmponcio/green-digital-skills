@@ -28,16 +28,16 @@ Digital doesn't equal green. A sustainable hosting shuold either:
 - use carbon offsets / renewable energy credits.
 
 ### Links of interest
-https://sustainablewebdesign.org/category/design/
-https://www.thegreenwebfoundation.org/directory/
-https://www.websitecarbon.com/
-https://digitalbeacon.co/
-http://carbonly.co/index.php/calculator/
-https://globemallow.io/
-https://www.wholegraindigital.com/blog/website-energy-efficiency/
-https://www.sustainablewebmanifesto.com/
-https://www.performancebudget.io/
-https://www.webpagetest.org/
+- https://sustainablewebdesign.org/category/design/
+- https://www.thegreenwebfoundation.org/directory/
+- https://www.websitecarbon.com/
+- https://digitalbeacon.co/
+- http://carbonly.co/index.php/calculator/
+- https://globemallow.io/
+- https://www.wholegraindigital.com/blog/website-energy-efficiency/
+- https://www.sustainablewebmanifesto.com/
+- https://www.performancebudget.io/
+- https://www.webpagetest.org/
 
 ### Final Comments
 The content provided in this page is a summary from multiple sources. It is not an exhaustive list of guidelines, or links, and there could be unintenationally included errors present - if you found any please let me know. 
